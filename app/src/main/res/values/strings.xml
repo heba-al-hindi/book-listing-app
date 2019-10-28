@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Google Book</string>
+    <string name="toolbar_title">Book Store</string>
+    <string name="search_bar_hint">Search</string>
+    <string name="book_image_description">Book Image</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_category">Category</string>
+    <string name="book_authors">Author</string>
+    <string name="book_price">10$</string>
+    <string name="buy">Buy Now</string>
+    <string name="preview">Preview Book</string>
+    <string name="matching_result"><b>No matching results</b></string>
+    <string name="internet_connection"><b>No Internet Connection</b>"\n"Check your connection or try again</string>
+</resources>
